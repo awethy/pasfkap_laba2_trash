@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pasfkap", "pasfkap.csproj", "{ECD365E9-4EBF-45A8-8ACC-F50DDD1728BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pasfkap.Tests", "..\pasfkap.Tests\pasfkap.Tests.csproj", "{73F5E8AC-E22C-463B-A40F-15BA12BF5EC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECD365E9-4EBF-45A8-8ACC-F50DDD1728BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECD365E9-4EBF-45A8-8ACC-F50DDD1728BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECD365E9-4EBF-45A8-8ACC-F50DDD1728BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECD365E9-4EBF-45A8-8ACC-F50DDD1728BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73F5E8AC-E22C-463B-A40F-15BA12BF5EC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73F5E8AC-E22C-463B-A40F-15BA12BF5EC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73F5E8AC-E22C-463B-A40F-15BA12BF5EC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73F5E8AC-E22C-463B-A40F-15BA12BF5EC1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64A0F60C-F50E-402D-941C-8F9DC1C25380}
+	EndGlobalSection
+EndGlobal
